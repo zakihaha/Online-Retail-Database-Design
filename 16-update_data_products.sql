@@ -1,0 +1,1 @@
+UPDATE `products` SET `name`='Monde',`description`='Snack untuk keluarga',`stock`='340' WHERE `id` = 2;

@@ -1,0 +1,1 @@
+SELECT AVG(total) FROM orders WHERE month(created_at) = month(NOW());

@@ -1,0 +1,1 @@
+UPDATE `users` SET `name`='Rick',`email`='rick@gmail.com',`password`='fdkjdfd' WHERE `id` = 6;

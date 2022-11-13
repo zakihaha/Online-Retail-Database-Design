@@ -1,0 +1,1 @@
+UPDATE `orders` SET `quantity`='4',`total`='8000' WHERE `id` = 5;

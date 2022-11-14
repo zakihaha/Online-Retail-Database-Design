@@ -1,4 +1,4 @@
-INSERT INTO 'products'('id', 'category_id', 'name', 'description', 'stock', 'price', 'created_at') VALUES 
+INSERT INTO `products`(`id`, `category_id`, `name`, `description`, `stock`, `price`, `created_at`) VALUES 
 ('1','1','Chitato','Chitato life is never flat', 400, 12000, '2022-11-13'),
 ('2','1','Koko Krunch','Rasa coklat yang dahsyat', 320, 3000, '2022-11-13'),
 ('3','2','Bear Brand','Susu sapi murni, iklan naga, maskot beruang', 500, 8000, '2022-11-13'),

@@ -1,4 +1,4 @@
-INSERT INTO 'categories'('id', 'name', 'created_at') VALUES 
+INSERT INTO `categories`(`id`, `name`, `created_at`) VALUES 
 ('1','Snack', '2022-11-13'),
 ('2','Drink', '2022-11-13'),
 ('3','T-shirt', '2022-11-13'),

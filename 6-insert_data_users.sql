@@ -1,4 +1,4 @@
-INSERT INTO 'users'('id', 'name', 'email', 'password', 'created_at') VALUES 
+INSERT INTO `users`(`id`, `name`, `email`, `password`, `created_at`) VALUES 
 ('1','Zaki','zaki@gmail.com','cdjkladfkl', '2022-11-13'),
 ('2','Meisha','meisha@gmail.com','qweqwef', '2022-11-13'),
 ('3','Okta','okta@gmail.com','ewfqwer', '2022-11-13'),

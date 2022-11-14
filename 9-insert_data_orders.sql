@@ -1,4 +1,4 @@
-INSERT INTO 'orders'('id', 'user_id', 'product_id', 'quantity', 'total', 'created_at') VALUES 
+INSERT INTO `orders`(`id`, `user_id`, `product_id`, `quantity`, `total`, `created_at`) VALUES 
 ('1','1','2', 2, 6000, '2022-10-08'),
 ('2','1','1', 3, 36000, '2022-10-21'),
 ('3','6','1', 1, 12000, '2022-10-30'),

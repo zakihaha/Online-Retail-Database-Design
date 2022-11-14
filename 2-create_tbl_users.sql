@@ -4,6 +4,6 @@ CREATE TABLE users (
     email varchar(255) NOT NULL,
     password varchar(255) NOT NULL,
     created_at date NOT NULL DEFAULT CURRENT_DATE,
-    PRIMARY KEY (id)
+    PRIMARY KEY (id),
     UNIQUE (email)
 );
